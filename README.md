@@ -1,2 +1,2 @@
-# guess_the_number
-Python guess the number terminal game. 
+# Guess the Number
+Ultra simple "Guess the Number" terminal game in Python. 
